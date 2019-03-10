@@ -6,8 +6,11 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 import javax.print.DocFlavor.URL;
+// this is used for loading image
 
 public class GameUti {
+	//GameUtil
+	//return the pic from specific path
 	private GameUti() {
 	}
 	
